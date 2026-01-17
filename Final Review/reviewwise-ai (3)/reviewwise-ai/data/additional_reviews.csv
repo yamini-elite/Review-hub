@@ -1,0 +1,101 @@
+item_id,item_name,category,rating,review_text,quality_score,source,date
+S-Tr-0,Beach Resort,travel,5,Fantastic destination. Will buy again.,0.86,Synthetic,2024-02-05
+S-Tr-1,Sky Airlines,travel,4,Great flight experience. Good value.,0.78,Synthetic,2024-05-05
+S-Tr-2,Kyoto Tour,travel,5,Magical stay at the resort. Will buy again.,0.78,Synthetic,2024-01-01
+S-Tr-3,Kyoto Tour,travel,5,Fantastic destination. Five stars!,0.75,Synthetic,2024-04-01
+S-Tr-4,Kyoto Tour,travel,4,The hotel was amazing! Will buy again.,0.7,Synthetic,2024-05-02
+S-Tr-5,Beach Resort,travel,4,The tour guide was great. Five stars!,0.71,Synthetic,2024-04-03
+S-Tr-6,Kyoto Tour,travel,5,Loved this trip! Will buy again.,0.86,Synthetic,2024-04-05
+S-Tr-7,Kyoto Tour,travel,5,Loved this trip! Good value.,0.82,Synthetic,2024-05-03
+S-Tr-8,Beach Resort,travel,5,The hotel was amazing! Highly recommend.,0.74,Synthetic,2024-02-03
+S-Tr-9,Beach Resort,travel,4,The hotel was amazing! Highly recommend.,0.73,Synthetic,2024-01-03
+S-Tr-10,Grand Hotel,travel,5,Highly recommend this airline. Will buy again.,0.73,Synthetic,2024-02-03
+S-Tr-11,Mountain Hut,travel,4,Highly recommend this airline. Good value.,0.83,Synthetic,2024-02-01
+S-Tr-12,Kyoto Tour,travel,5,The hotel was amazing! Five stars!,0.78,Synthetic,2024-01-09
+S-Tr-13,Kyoto Tour,travel,4,Great flight experience. Five stars!,0.73,Synthetic,2024-02-08
+S-Tr-14,Grand Hotel,travel,5,Great flight experience. Good value.,0.83,Synthetic,2024-03-09
+S-Tr-15,Kyoto Tour,travel,5,Highly recommend this airline. Five stars!,0.81,Synthetic,2024-02-07
+S-Tr-16,Grand Hotel,travel,4,Great flight experience. Good value.,0.78,Synthetic,2024-01-07
+S-Tr-17,Beach Resort,travel,4,The hotel was amazing! Will buy again.,0.81,Synthetic,2024-02-09
+S-Tr-18,Mountain Hut,travel,5,The hotel was amazing! Will buy again.,0.79,Synthetic,2024-04-05
+S-Tr-19,Kyoto Tour,travel,4,Loved this trip! Highly recommend.,0.79,Synthetic,2024-05-06
+S-El-0,Bose Headphones,electronics,5,Excellent monitor for work. Good value.,0.81,Synthetic,2024-02-03
+S-El-1,Logitech Mouse,electronics,5,Stylish smartwatch. Five stars!,0.75,Synthetic,2024-02-04
+S-El-2,Sony Camera,electronics,4,Stylish smartwatch. Five stars!,0.87,Synthetic,2024-05-08
+S-El-3,MacBook Pro,electronics,5,The camera quality is superb. Will buy again.,0.87,Synthetic,2024-04-03
+S-El-4,MacBook Pro,electronics,5,Best laptop I've owned. Good value.,0.74,Synthetic,2024-01-02
+S-El-5,Logitech Mouse,electronics,4,Very responsive mouse. Highly recommend.,0.76,Synthetic,2024-02-05
+S-El-6,Logitech Mouse,electronics,4,The camera quality is superb. Will buy again.,0.89,Synthetic,2024-04-07
+S-El-7,Bose Headphones,electronics,4,Excellent monitor for work. Five stars!,0.88,Synthetic,2024-04-07
+S-El-8,MacBook Pro,electronics,4,Best laptop I've owned. Five stars!,0.88,Synthetic,2024-03-02
+S-El-9,MacBook Pro,electronics,5,Noise cancelling is top notch. Five stars!,0.81,Synthetic,2024-02-04
+S-El-10,Samsung Tablet,electronics,4,Very responsive mouse. Will buy again.,0.77,Synthetic,2024-04-09
+S-El-11,MacBook Pro,electronics,4,The camera quality is superb. Five stars!,0.87,Synthetic,2024-04-03
+S-El-12,iPhone 15,electronics,4,The camera quality is superb. Five stars!,0.74,Synthetic,2024-05-09
+S-El-13,Logitech Mouse,electronics,4,Best laptop I've owned. Five stars!,0.8,Synthetic,2024-01-08
+S-El-14,MacBook Pro,electronics,4,Very responsive mouse. Five stars!,0.87,Synthetic,2024-05-01
+S-El-15,Bose Headphones,electronics,4,Very responsive mouse. Highly recommend.,0.79,Synthetic,2024-03-09
+S-El-16,Bose Headphones,electronics,4,Very responsive mouse. Good value.,0.83,Synthetic,2024-01-07
+S-El-17,Logitech Mouse,electronics,5,Very responsive mouse. Good value.,0.8,Synthetic,2024-01-04
+S-El-18,Logitech Mouse,electronics,4,Best laptop I've owned. Will buy again.,0.74,Synthetic,2024-04-06
+S-El-19,Sony Camera,electronics,4,Noise cancelling is top notch. Highly recommend.,0.76,Synthetic,2024-05-07
+S-Fa-0,Titan Watch,fashion,4,The watch looks premium. Good value.,0.76,Synthetic,2024-01-09
+S-Fa-1,Stellar Shirt,fashion,4,Cool outfit. Good value.,0.82,Synthetic,2024-02-02
+S-Fa-2,Titan Watch,fashion,4,Love this shirt! Will buy again.,0.71,Synthetic,2024-01-01
+S-Fa-3,Stellar Shirt,fashion,5,Beautiful dress for the party. Good value.,0.9,Synthetic,2024-04-02
+S-Fa-4,Fashionista Dress,fashion,5,The watch looks premium. Five stars!,0.73,Synthetic,2024-03-09
+S-Fa-5,Nike Shoes,fashion,4,Beautiful dress for the party. Good value.,0.84,Synthetic,2024-04-02
+S-Fa-6,Titan Watch,fashion,4,Great style and fit. Will buy again.,0.82,Synthetic,2024-02-03
+S-Fa-7,Stellar Shirt,fashion,5,Comfortable shoes. Good value.,0.87,Synthetic,2024-04-06
+S-Fa-8,Stellar Shirt,fashion,4,Cool outfit. Good value.,0.73,Synthetic,2024-05-01
+S-Fa-9,Fashionista Dress,fashion,4,Comfortable shoes. Good value.,0.76,Synthetic,2024-02-04
+S-Fa-10,Titan Watch,fashion,4,Best jeans ever. Five stars!,0.79,Synthetic,2024-01-08
+S-Fa-11,Nike Shoes,fashion,4,Love this shirt! Will buy again.,0.88,Synthetic,2024-03-05
+S-Fa-12,Titan Watch,fashion,5,Love this shirt! Five stars!,0.74,Synthetic,2024-01-01
+S-Fa-13,Levis Jeans,fashion,4,Beautiful dress for the party. Five stars!,0.78,Synthetic,2024-03-07
+S-Fa-14,Titan Watch,fashion,4,The watch looks premium. Highly recommend.,0.83,Synthetic,2024-04-02
+S-Fa-15,Nike Shoes,fashion,5,The watch looks premium. Good value.,0.72,Synthetic,2024-01-03
+S-Fa-16,Nike Shoes,fashion,4,Comfortable shoes. Good value.,0.84,Synthetic,2024-04-07
+S-Fa-17,Fashionista Dress,fashion,5,Cool outfit. Five stars!,0.75,Synthetic,2024-05-06
+S-Fa-18,Titan Watch,fashion,4,Great style and fit. Good value.,0.86,Synthetic,2024-04-04
+S-Fa-19,Levis Jeans,fashion,4,Great style and fit. Highly recommend.,0.8,Synthetic,2024-05-03
+S-Re-0,The Local Bistro,restaurants,5,Subway sandwiches are fresh. Five stars!,0.74,Synthetic,2024-02-05
+S-Re-1,KFC,restaurants,4,The food was delicious! Will buy again.,0.88,Synthetic,2024-02-07
+S-Re-2,The Local Bistro,restaurants,5,Subway sandwiches are fresh. Highly recommend.,0.87,Synthetic,2024-01-07
+S-Re-3,The Local Bistro,restaurants,4,Best cafe in town. Five stars!,0.75,Synthetic,2024-02-07
+S-Re-4,KFC,restaurants,4,Love this diner. Good value.,0.76,Synthetic,2024-01-06
+S-Re-5,Golden Diner,restaurants,5,Love this diner. Will buy again.,0.82,Synthetic,2024-04-03
+S-Re-6,KFC,restaurants,5,Love this diner. Highly recommend.,0.9,Synthetic,2024-03-05
+S-Re-7,Pizza Hut,restaurants,5,Love this diner. Will buy again.,0.84,Synthetic,2024-02-09
+S-Re-8,The Local Bistro,restaurants,4,Love this diner. Highly recommend.,0.77,Synthetic,2024-02-07
+S-Re-9,Pizza Hut,restaurants,4,Subway sandwiches are fresh. Will buy again.,0.81,Synthetic,2024-02-04
+S-Re-10,The Local Bistro,restaurants,4,Subway sandwiches are fresh. Good value.,0.74,Synthetic,2024-02-02
+S-Re-11,Golden Diner,restaurants,4,Great bistro atmosphere. Highly recommend.,0.82,Synthetic,2024-02-04
+S-Re-12,KFC,restaurants,4,Starbucks coffee is always good. Highly recommend.,0.77,Synthetic,2024-04-09
+S-Re-13,Subway,restaurants,5,Great bistro atmosphere. Highly recommend.,0.77,Synthetic,2024-04-02
+S-Re-14,Subway,restaurants,5,Best cafe in town. Will buy again.,0.81,Synthetic,2024-02-04
+S-Re-15,Subway,restaurants,5,The food was delicious! Highly recommend.,0.9,Synthetic,2024-01-08
+S-Re-16,Subway,restaurants,5,The food was delicious! Five stars!,0.71,Synthetic,2024-04-07
+S-Re-17,KFC,restaurants,5,Love this diner. Highly recommend.,0.71,Synthetic,2024-05-01
+S-Re-18,Starbucks,restaurants,5,Love this diner. Highly recommend.,0.81,Synthetic,2024-05-02
+S-Re-19,The Local Bistro,restaurants,4,Excellent buffet variety. Highly recommend.,0.87,Synthetic,2024-03-03
+S-Bo-0,History Book,books,4,Loved reading this on my Kindle. Five stars!,0.89,Synthetic,2024-03-04
+S-Bo-1,Life Memoir,books,4,Amazing novel. Highly recommend.,0.85,Synthetic,2024-04-08
+S-Bo-2,Business Guide,books,4,Captivating fiction. Highly recommend.,0.7,Synthetic,2024-03-04
+S-Bo-3,Science Fiction Book,books,4,Amazing novel. Will buy again.,0.8,Synthetic,2024-01-07
+S-Bo-4,Science Fiction Book,books,4,Captivating fiction. Good value.,0.88,Synthetic,2024-05-01
+S-Bo-5,Life Memoir,books,5,Informative non-fiction. Highly recommend.,0.76,Synthetic,2024-05-04
+S-Bo-6,History Book,books,5,Captivating fiction. Five stars!,0.74,Synthetic,2024-04-04
+S-Bo-7,Mystery Novel,books,4,"Great book, couldn't put it down. Good value.",0.77,Synthetic,2024-03-05
+S-Bo-8,Mystery Novel,books,4,"Great book, couldn't put it down. Good value.",0.82,Synthetic,2024-03-02
+S-Bo-9,Science Fiction Book,books,4,Amazing novel. Will buy again.,0.75,Synthetic,2024-05-02
+S-Bo-10,Life Memoir,books,4,Informative non-fiction. Good value.,0.72,Synthetic,2024-03-02
+S-Bo-11,Science Fiction Book,books,5,Must read biography. Highly recommend.,0.72,Synthetic,2024-03-09
+S-Bo-12,Business Guide,books,4,Loved reading this on my Kindle. Highly recommend.,0.7,Synthetic,2024-01-04
+S-Bo-13,Science Fiction Book,books,5,Informative non-fiction. Highly recommend.,0.85,Synthetic,2024-04-01
+S-Bo-14,Mystery Novel,books,4,Must read biography. Good value.,0.89,Synthetic,2024-02-06
+S-Bo-15,Life Memoir,books,4,The author's best work. Will buy again.,0.78,Synthetic,2024-05-04
+S-Bo-16,Business Guide,books,5,The author's best work. Five stars!,0.78,Synthetic,2024-05-01
+S-Bo-17,Science Fiction Book,books,4,Loved reading this on my Kindle. Five stars!,0.75,Synthetic,2024-05-04
+S-Bo-18,Mystery Novel,books,5,The author's best work. Five stars!,0.7,Synthetic,2024-05-09
+S-Bo-19,Business Guide,books,4,Loved reading this on my Kindle. Will buy again.,0.79,Synthetic,2024-02-09
