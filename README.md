@@ -128,8 +128,8 @@ npm run dev
 Add screenshots of the application here.
 
 ```md
-![Home Page](screenshots/home.png)
-![Review Page](screenshots/review.png)
+!<img width="1911" height="870" alt="image" src="https://github.com/user-attachments/assets/bef1a724-55b4-4c30-8859-447bb8c96f05" />
+
 ```
 
 ## Contributing
