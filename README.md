@@ -152,9 +152,7 @@ git push origin feature-name
 ## Author
 
 **Yamini R**
-
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- LinkedIn: (https://www.linkedin.com/in/yamini-raju-ab06462ba/)
 
 ## License
 
